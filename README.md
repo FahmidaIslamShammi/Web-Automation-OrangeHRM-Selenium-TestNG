@@ -21,7 +21,7 @@
 
 10. Logout the user
 
-##Technology and Tool Used:
+## Technology and Tool Used:
 - Selenium Webdriver
 - TestNG
 - Java
@@ -29,7 +29,7 @@
 - intellij idea
 - Allure
 
-##How to run this project:
+## How to run this project:
 - clone this project
 - hit the following command into the terminal:
     - gradle clean test
